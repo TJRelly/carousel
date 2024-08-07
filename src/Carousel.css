@@ -15,5 +15,10 @@
 }
 
 .bi {
-  font-size: 35px
+  font-size: 35px;
+}
+
+.Carousel-main > i.end {
+  color: transparent;
+  cursor: auto;
 }
