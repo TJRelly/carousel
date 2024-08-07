@@ -1,4 +1,4 @@
-### Carousel
+# Carousel
 
 React carousel. Fixed scrolling bugs and wrote tests.
 
